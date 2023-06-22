@@ -7,4 +7,4 @@ getgenv().DitPSX = {
     ["White Screen"] = true, -- Enable for disable game's rendering for less CPU/GPU usage
 }
 script_key="UnhYazdsCBdZuYBYpFZCcEGdcHfhexYg";
-loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/92d7557e2c88215501719ba3b576b89e.lua"))()
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/ca444ed966c4af68a50d4e1412af1c04.lua"))()
