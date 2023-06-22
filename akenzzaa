@@ -4,7 +4,7 @@ getgenv().DitPSX = {
     ["Farm Cooldown"] = 0, -- Delay between switch to farm another thing (higher = less crashing)
     ["Send all"] = true, -- Send all pet to break or not, false will send single to break
     ["Performance Mode"] = false, -- Enable if you want to AFK overnight, farm will be slower but low chance crashing roblox 
-    ["White Screen"] = true, -- Enable for disable game's rendering for less CPU/GPU usage
+    ["White Screen"] = false, -- Enable for disable game's rendering for less CPU/GPU usage
 }
 script_key="UnhYazdsCBdZuYBYpFZCcEGdcHfhexYg";
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/ca444ed966c4af68a50d4e1412af1c04.lua"))()
