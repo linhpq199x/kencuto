@@ -26,7 +26,7 @@ getgenv().DitPSX = {
         -- Mainly farm Apple/Banana/ while opening Egg
         ["Enable"] = true,
         ["Farm when under"] = 10,
-        ["Farm until"] = 50,
+        ["Farm until"] = 100,
     },
     ["Auto Mailbox"] = { -- Auto send Diamonds to a person thru Mailbox when your Diamonds more than set diamond
         ["Enable"] = false,
