@@ -12,7 +12,7 @@ getgenv().Config = {
     ["HardMode"] = false,
     ["IgnoreMacroTiming"] = true,
     ["SelectMacro"] = "clay",
-    ["LeaveSellWave"] = 1,
+    ["LeaveSellWave"] = 31,
     ["AutoRejoin"] = true,
     ["PlayMacro"] = true,
     ["WebhookURL"] = "https://discord.com/api/webhooks/1246776917768798310/1F6WFzuMaAyedNfOa-lvFu_vjnSevUro4Z3hiEfA5jjTUC4C8yf8b3WMbJoTxH88Fnr0",
@@ -20,7 +20,7 @@ getgenv().Config = {
     ["AutoSave"] = true,
     ["BoostFPS"] = true,
     ["AutoReplay"] = false,
-    ["AutoReturnLobby"] = false,
-    ["AutoLeave"] = false
+    ["AutoReturnLobby"] = true,
+    ["AutoLeave"] = true
 }
 repeat wait()spawn(function()loadstring(game:HttpGet("https://nousigi.com/loader.lua"))()end)wait(10)until Joebiden
